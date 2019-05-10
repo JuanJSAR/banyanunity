@@ -22,7 +22,7 @@ Copy the IP adress from the first line (in this case `10.8.0.14`) and paste it i
 
 ### Step 3: Download and import Banyan Unity to your Unity game
 
-1. Download and import Banyan Unity into your game.
+1. Download and import [Banyan Unity](https://assetstore.unity.com/packages/tools/integration/banyan-unity-124623) into your game.
 2. Open up the BanyanUnity Demo Scene.
 3. Copy over the Sender and Listener Game Objects, and also the Cube into your own scene.
 
